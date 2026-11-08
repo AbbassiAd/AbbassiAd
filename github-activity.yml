@@ -1,0 +1,36 @@
+name: Update GitHub activity cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 6 * * *'
+  push:
+    paths:
+      - '.github/workflows/github-activity.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-activity-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+      - name: Generate and commit activity cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: AbbassiAd
+          BRANCH_NAME: ${{ github.event.repository.default_branch }}
+          THEME: github_dark
+          TIME_ZONE: Africa/Casablanca
+          AUTO_PUSH: true
