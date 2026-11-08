@@ -161,18 +161,18 @@ Baccalaureate · Physical Sciences, French Option	With Honors	2022
   <li>View the distribution of commit activity throughout the day.</li>
 </ul>
   <!-- Contribution overview -->
-  <img
-    src="./profile-summary-card-output/github_dark/0-profile-details.svg"
-    width="100%"
-    alt="GitHub contribution overview"
-  />  <h3>01 / Development Overview</h3>
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbbassiAd&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbbassiAd&amp;theme=github" width="100%" alt="GitHub contribution overview" />
+</picture>  <h3>01 / Development Overview</h3>
   <ul align="left">
   <li>Review repository statistics and development activity.</li>
-</ul>  <img
-    src="./profile-summary-card-output/github_dark/3-stats.svg"
-    width="80%"
-    alt="GitHub development statistics"
-  />  <h3>02 / Programming Languages</h3>
+</ul>  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbbassiAd&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbbassiAd&amp;theme=github" width="80%" alt="GitHub development statistics" />
+</picture>  <h3>02 / Programming Languages</h3>
   <ul align="left">
   <li>Compare language distribution by repository.</li>
   <li>Explore language usage based on commit activity.</li>
@@ -180,30 +180,30 @@ Baccalaureate · Physical Sciences, French Option	With Honors	2022
   <tr>
     <td width="50%" align="center" valign="top">
       <h4>Repository Distribution</h4>
-      <img
-        src="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
-        width="100%"
-        alt="Programming languages by repository"
-      />
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbbassiAd&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbbassiAd&amp;theme=github" width="100%" alt="Programming languages by repository" />
+</picture>
     </td>
     <td width="50%" align="center" valign="top">
       <h4>Commit Distribution</h4>
-      <img
-        src="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
-        width="100%"
-        alt="Programming languages by commits"
-      />
+      <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbbassiAd&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbbassiAd&amp;theme=github" width="100%" alt="Programming languages by commits" />
+</picture>
     </td>
   </tr>
 </table><div align="center">
   <h3>03 / Coding Rhythm</h3>
   <ul align="left">
   <li>View how commit activity is distributed throughout the day.</li>
-</ul>  <img
-    src="./profile-summary-card-output/github_dark/4-productive-time.svg"
-    width="85%"
-    alt="GitHub productive coding time"
-  />  <p>
+</ul>  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbbassiAd&amp;theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AbbassiAd&amp;theme=github" width="85%" alt="GitHub productive coding time" />
+</picture>  <p>
     <a href="https://github.com/AbbassiAd?tab=overview">
       <img
         src="https://img.shields.io/badge/EXPLORE_MY_ACTIVITY-6366F1?style=for-the-badge&logo=github&logoColor=white"
