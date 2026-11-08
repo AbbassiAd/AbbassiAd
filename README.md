@@ -124,13 +124,30 @@ Baccalaureate · Physical Sciences, French Option	With Honors	2022
 <p>Participated in the development of <strong>Cinemate</strong>.</p>
 </td>
 </tr>
-</table><a name="activity"></a>
-06 / GitHub Activity
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AbbassiAd&amp;bg_color=0D1117&amp;color=CBD5E1&amp;line=818CF8&amp;point=60A5FA&amp;area=true&amp;area_color=6366F1&amp;hide_border=true&amp;custom_title=Code%20%C2%B7%20Learn%20%C2%B7%20Build" width="100%" alt="Adil Abbassi's public GitHub contribution activity" /><details>
-<summary><strong>View repository statistics</strong></summary>
-<img src="https://github-readme-stats.vercel.app/api?username=AbbassiAd&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=818CF8&amp;icon_color=A78BFA&amp;text_color=CBD5E1&amp;hide_rank=true&amp;include_all_commits=false" width="49%" alt="Public GitHub repository statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbassiAd&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=818CF8&amp;text_color=CBD5E1&amp;langs_count=6" width="49%" alt="Language distribution across public repositories" /><sub>Public repository activity · Language distribution reflects repository code.</sub>
-</details></div>
+</table>
+ <a name="activity"></a>
+
+## 06 / GitHub Activity
+
+<div align="center">
+
+### Contribution Activity
+
+<img src="https://ghchart.rshah.org/818CF8/AbbassiAd" width="100%" alt="GitHub contribution calendar for Adil Abbassi" />
+
+<br/>
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=AbbassiAd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=8B5CF6&text_color=CBD5E1&hide_rank=true" width="100%" alt="GitHub statistics" />
+
+<br/>
+
+### Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbassiAd&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CBD5E1&langs_count=8" width="100%" alt="Most used programming languages" />
+
+</div>
 <a name="connect"></a>
 07 / Let's Connect
 <div align="center">Have a project or an opportunity in mind?
