@@ -127,25 +127,17 @@ Baccalaureate · Physical Sciences, French Option	With Honors	2022
 </table>
  <a name="activity"></a>
 
-## 06 / GitHub Activity
-
 <div align="center">
 
-### Contribution Activity
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbbassiAd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
 
-<img src="https://ghchart.rshah.org/818CF8/AbbassiAd" width="100%" alt="GitHub contribution calendar for Adil Abbassi" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbassiAd&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&langs_count=8" />
 
-<br/>
+<img width="75%" src="https://streak-stats.demolab.com?user=AbbassiAd&hide_border=true&background=0D1117&ring=818CF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
 
-### GitHub Statistics
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbbassiAd&bg_color=0D1117&color=94A3B8&line=60A5FA&point=818CF8&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbbassiAd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&icon_color=8B5CF6&text_color=CBD5E1&hide_rank=true" width="100%" alt="GitHub statistics" />
-
-<br/>
-
-### Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbassiAd&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=CBD5E1&langs_count=8" width="100%" alt="Most used programming languages" />
+<sub>Statistics are generated using public GitHub activity and external services.</sub>
 
 </div>
 <a name="connect"></a>
