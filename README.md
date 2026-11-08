@@ -125,21 +125,24 @@ Baccalaureate · Physical Sciences, French Option	With Honors	2022
 </td>
 </tr>
 </table>
- <a name="activity"></a>
+<a name="activity"></a>
+
+## 06 / GitHub Activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AbbassiAd&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=818CF8&text_color=CBD5E1&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbassiAd&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&langs_count=8" />
-
-<img width="75%" src="https://streak-stats.demolab.com?user=AbbassiAd&hide_border=true&background=0D1117&ring=818CF8&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbbassiAd&bg_color=0D1117&color=94A3B8&line=60A5FA&point=818CF8&area=true&hide_border=true&custom_title=Contribution%20Activity" />
-
-<sub>Statistics are generated using public GitHub activity and external services.</sub>
-
+  <a href="https://github.com/AbbassiAd?tab=overview">
+    <img width="98%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution activity for AbbassiAd" />
+  </a>
+  <br />
+  <img width="48%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics for AbbassiAd" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages by repository for AbbassiAd" />
+  <br />
+  <img width="48%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Languages by commits for AbbassiAd" />
+  <img width="48%" src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="Commit activity by time of day for AbbassiAd" />
+  <p><sub>Cards are generated daily by GitHub Actions and stored in this repository.</sub></p>
+  <p><a href="https://github.com/AbbassiAd?tab=overview">View my GitHub activity</a></p>
 </div>
+
 <a name="connect"></a>
 07 / Let's Connect
 <div align="center">Have a project or an opportunity in mind?
